@@ -4,12 +4,12 @@ This repository contains implementations and solutions for various Data Structur
 
 ## 📚 Topics Covered
 
-1. **[HashMap](./hashMap)** - Hash table implementations and related problems
-2. **[Heap](./heap)** - Heap data structure and priority queue problems
-3. **[Misc](./misc)** - Miscellaneous algorithms and problems
-4. **[Queue](./queue)** - Queue implementations and related problems
-5. **[Stack](./stack)** - Stack implementations and related problems
-6. **[StringBuilder](./stringBuilder)** - String manipulation and StringBuilder operations
+1. **[HashMap](./hashMap/HashMapMethods.md)** - Hash table implementations and related problems
+2. **[Heap](./heap/HeapMethods.md)** - Heap data structure and priority queue problems
+3. **[Misc](./misc/CommonPitfalls.md)** - Miscellaneous algorithms and problems
+4. **[Queue](./queue/QueueMethods.md)** - Queue implementations and related problems
+5. **[Stack](./stack/StackMethods.md)** - Stack implementations and related problems
+6. **[StringBuilder](./stringBuilder/StringBuilderMethods.md)** - String manipulation and StringBuilder operations
 
 ---
 
